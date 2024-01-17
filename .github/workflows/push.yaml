@@ -15,7 +15,7 @@ jobs:
       - name: Push Latest Tag
         uses: anothrNick/github-tag-action@1.67.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.STAKATER_GITHUB_TOKEN }}
           WITH_V: true
           DEFAULT_BUMP: patch
           RELEASE_BRANCHES: 'main'

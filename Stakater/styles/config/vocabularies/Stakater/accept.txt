@@ -86,7 +86,6 @@ Burnup
 Ceph
 Certmanager
 classpath
-cli
 CLI
 ClusterResourceQuota[s]?
 ClusterTask[s]?
@@ -148,7 +147,6 @@ JBoss
 Jenkins
 Jira
 JMeter
-json
 JSON
 jsonnet
 JUnit
@@ -185,10 +183,8 @@ MTO
 Nasdaq
 NDA[s]?
 netclient
-nfs
 NFS
 Nordmart
-npm
 NPM
 NuGet
 num_workers
@@ -253,8 +249,7 @@ Telco
 tfvars
 Thanos
 Tiltfile
-toc
-TOC
+[tT][oO][cC]
 Trivy
 Tronador
 txt
@@ -273,7 +268,6 @@ VMware
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
-vpn
 VPN
 webserver
 wireframe[s]?
@@ -281,6 +275,5 @@ Wix
 worker_state
 www
 xfs
-yaml
 YAML
 Zerotier

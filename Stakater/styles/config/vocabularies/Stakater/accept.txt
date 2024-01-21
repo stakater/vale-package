@@ -249,7 +249,7 @@ Telco
 tfvars
 Thanos
 Tiltfile
-[tT][oO][cC]
+TOC
 Trivy
 Tronador
 txt

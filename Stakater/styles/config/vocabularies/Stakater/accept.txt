@@ -1,5 +1,5 @@
 [Aa]ccessor
-[Aa]dd[oO]n
+[Aa]dd[Oo]n
 [Aa]uditable
 [Aa]utoscale
 [Aa]utoscalers
@@ -7,7 +7,6 @@
 [Bb]aremetal
 [Bb]uildah
 [Cc]heckov
-[cC]leura
 [Cc]onfig
 [Cc]onfigmap[s]?
 [Cc]ron
@@ -18,7 +17,6 @@
 [Dd]ev
 [Dd]iscoverability
 [Dd]owntimes
-[eE]xoscale
 [Ff]ailover
 [Ff]ika
 [Ff]inali[sz]er[s]?
@@ -28,8 +26,8 @@
 [Kk]amel
 [Kk]anban
 [Kk]eycloak
-[kK]eypair
-[kK]ube
+[Kk]eypair
+[Kk]ube
 [Ll]ightbulb
 [Ll]inux
 [Ll]iveness
@@ -38,7 +36,7 @@
 [Mm]ultitenancy
 [Nn]amespace[s]?
 [Nn]etmaker
-[nN]utanix
+[Nn]utanix
 [Oo]ffboarding
 [Oo]nboarded
 [Oo]nboarding
@@ -57,7 +55,7 @@
 [Ss]howback
 [Ss]kopeo
 [Ss]takater
-[sS]ubnet
+[Ss]ubnet
 [Tt]eardown
 [Tt]oolset
 [Uu]ncomment
@@ -86,7 +84,7 @@ Burnup
 Ceph
 Certmanager
 classpath
-cli
+Cleura
 CLI
 ClusterResourceQuota[s]?
 ClusterTask[s]?
@@ -116,6 +114,7 @@ EOC
 eppn
 ESXi
 etcd
+Exoscale
 Fabrikate
 Falco
 Fluentd
@@ -148,7 +147,6 @@ JBoss
 Jenkins
 Jira
 JMeter
-json
 JSON
 jsonnet
 JUnit
@@ -185,10 +183,8 @@ MTO
 Nasdaq
 NDA[s]?
 netclient
-nfs
 NFS
 Nordmart
-npm
 NPM
 NuGet
 num_workers
@@ -210,7 +206,7 @@ Pure Storage
 PV[s]?
 RBAC
 Realtime
-RedHat
+Red Hat
 Rego
 Reloader
 Restic
@@ -253,7 +249,6 @@ Telco
 tfvars
 Thanos
 Tiltfile
-toc
 TOC
 Trivy
 Tronador
@@ -273,7 +268,6 @@ VMware
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
-vpn
 VPN
 webserver
 wireframe[s]?
@@ -281,6 +275,5 @@ Wix
 worker_state
 www
 xfs
-yaml
 YAML
 Zerotier

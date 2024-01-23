@@ -249,6 +249,7 @@ Telco
 tfvars
 Thanos
 Tiltfile
+TNO[s]?
 TOC
 Trivy
 Tronador

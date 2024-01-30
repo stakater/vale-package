@@ -251,6 +251,7 @@ Thanos
 Tiltfile
 TNO[s]?
 TOC
+toolchain
 Trivy
 Tronador
 txt
@@ -261,6 +262,7 @@ URL[s]?
 utilizations
 uuid
 Vault
+vCore[s]?
 Velero
 vendored
 vendoring

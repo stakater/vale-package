@@ -77,6 +77,7 @@ Binero
 bluesky
 boolean
 bootable
+Broadcom
 buildpack
 Bundler
 Burndown
@@ -244,6 +245,7 @@ Subnetworks
 sudo
 Sumologic
 Syslog
+Tanzu
 Tekton
 Telco
 tfvars

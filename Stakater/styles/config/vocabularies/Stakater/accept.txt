@@ -128,11 +128,13 @@ GitHub
 GitLab
 GitOps
 GitVersion
+Golang
 gpt
 Gradle
 Grafana
 Gravatar
 HAProxy
+Hive
 hostname
 HPA
 html
@@ -205,6 +207,7 @@ Proto
 Proxmox
 Pure Storage
 PV[s]?
+Quay
 RBAC
 Realtime
 Red Hat
@@ -220,7 +223,7 @@ Safespring
 SAML
 SCC[s]?
 SCM[s]?
-sealedsecret[s]?
+Sealed[ ]?Secret[s]?
 secretRef
 SelectorSyncSet
 semver
@@ -265,6 +268,7 @@ utilizations
 uuid
 Vault
 vCore[s]?
+Vector
 Velero
 vendored
 vendoring

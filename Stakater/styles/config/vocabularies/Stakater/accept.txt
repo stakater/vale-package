@@ -57,6 +57,7 @@
 [Ss]takater
 [Ss]ubnet
 [Tt]eardown
+[Tt]emplated
 [Tt]oolset
 [Uu]ncomment
 [Ww]ebservice

@@ -30,7 +30,6 @@
 [Kk]ube
 [Ll]ightbulb
 LDs
-[Ll]iquated
 [Ll]inux
 [Ll]iveness
 [Mm]etamodel[s]?

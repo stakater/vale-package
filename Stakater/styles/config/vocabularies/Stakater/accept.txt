@@ -13,6 +13,7 @@
 [Cc]ybersecurity
 [Dd]aemonset
 [Dd]eliverable[s]?
+[Dd]eprovisioning
 [Dd]eserialize
 [Dd]ev
 [Dd]iscoverability
@@ -44,6 +45,7 @@ LDs
 [Oo]verengineering
 [Pp]luggable
 [Pp]odman
+[Qq]uiescing
 [Rr]eadiness
 [Rr]epo[s]?
 [Rr]eusability
@@ -58,6 +60,7 @@ LDs
 [Ss]takater
 [Ss]ubnet
 [Tt]eardown
+Temenos
 [Tt]emplated
 [Tt]oolset
 [Uu]ncomment

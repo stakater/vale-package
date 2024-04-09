@@ -45,6 +45,7 @@ LDs
 [Oo]verengineering
 [Pp]luggable
 [Pp]odman
+[Pp]owershift
 [Qq]uiescing
 [Rr]eadiness
 [Rr]epo[s]?

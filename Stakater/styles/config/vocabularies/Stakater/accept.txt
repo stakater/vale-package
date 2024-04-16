@@ -18,6 +18,8 @@
 [Dd]ev
 [Dd]iscoverability
 [Dd]owntimes
+Dynatrace
+[Ff]ailback
 [Ff]ailover
 [Ff]ika
 [Ff]inali[sz]er[s]?

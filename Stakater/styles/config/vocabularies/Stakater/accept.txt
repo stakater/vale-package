@@ -296,3 +296,5 @@ www
 xfs
 YAML
 Zerotier
+XR[s]
+XRD[s]

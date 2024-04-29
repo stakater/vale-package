@@ -45,7 +45,6 @@ LDs
 [Oo]ffboarding
 [Oo]nboarded
 [Oo]nboarding
-[Oo]penstack
 [Oo]verengineering
 [Pp]luggable
 [Pp]odman

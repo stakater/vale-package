@@ -24,6 +24,7 @@ Dynatrace
 [Ff]ika
 [Ff]inali[sz]er[s]?
 [Hh]elm
+[Hh]ypershift
 [Jj]umpstart
 [Kk]afka
 [Kk]amel

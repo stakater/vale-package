@@ -24,6 +24,7 @@ Dynatrace
 [Ff]ika
 [Ff]inali[sz]er[s]?
 [Hh]elm
+[Hh]ypershift
 [Jj]umpstart
 [Kk]afka
 [Kk]amel
@@ -44,6 +45,7 @@ LDs
 [Oo]ffboarding
 [Oo]nboarded
 [Oo]nboarding
+[Oo]penstack
 [Oo]verengineering
 [Pp]luggable
 [Pp]odman

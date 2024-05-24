@@ -213,6 +213,7 @@ parameteriz(e|ing)
 Portworx
 Postgres
 preloaded
+Prisma
 Prometheus
 Proto
 Proxmox

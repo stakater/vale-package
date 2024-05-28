@@ -116,7 +116,6 @@ Datadog
 declaratively
 deletecollection
 Demiguise
-Descheduler
 dnsmasq
 Docker Hub
 Dockerfile[s]?

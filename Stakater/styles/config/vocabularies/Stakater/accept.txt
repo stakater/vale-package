@@ -14,6 +14,8 @@
 [Dd]aemonset
 [Dd]eliverable[s]?
 [Dd]eprovisioning
+[Dd]escheduler
+[Dd]escheduling
 [Dd]eserialize
 [Dd]ev
 [Dd]iscoverability
@@ -32,6 +34,7 @@ Dynatrace
 [Kk]eycloak
 [Kk]eypair
 [Kk]ube
+[Kk]ubernetes
 [Ll]ightbulb
 LDs
 [Ll]inux
@@ -51,6 +54,7 @@ LDs
 [Pp]owershift
 [Qq]uiescing
 [Rr]eadiness
+[Rr]ebalancing
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
@@ -63,8 +67,10 @@ LDs
 [Ss]kopeo
 [Ss]takater
 [Ss]ubnet
+[Ss]ubresource
 [Tt]eardown
 Temenos
+[Tt]olerations
 [Tt]emplated
 [Tt]oolset
 [Uu]ncomment

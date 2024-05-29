@@ -97,6 +97,7 @@ buildpack
 Bundler
 Burndown
 Burnup
+burstable
 Ceph
 Certmanager
 classpath
@@ -178,7 +179,6 @@ ksonnet
 Kube
 kubectl
 kubelet[s]?
-Kubernetes
 kubeseal
 Kustomize
 Kyverno
@@ -213,6 +213,7 @@ ontop
 [Oo]pen[Cc]ost
 OpenShift
 OpenStack
+overutilized
 PagerDuty
 parameteriz(e|ing)
 Portworx
@@ -279,6 +280,7 @@ Trivy
 Tronador
 txt
 ubuntu
+underutilization
 UptimeRobot
 URI[s]?
 URL[s]?

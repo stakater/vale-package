@@ -1,5 +1,6 @@
 [Aa]ccessor
 [Aa]dd[Oo]n
+[Aa]rchitecting
 [Aa]uditable
 [Aa]utoscale
 [Aa]utoscalers
@@ -33,6 +34,7 @@ Dynatrace
 [Kk]anban
 [Kk]eycloak
 [Kk]eypair
+[Kk]ickstarter
 [Kk]ube
 [Kk]ubernetes
 [Ll]ightbulb

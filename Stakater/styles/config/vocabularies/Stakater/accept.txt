@@ -1,6 +1,8 @@
 [Aa]ccessor
 [Aa]dd[Oo]n
 [Aa]rchitecting
+ARO
+aro
 [Aa]uditable
 [Aa]utoscale
 [Aa]utoscalers
@@ -22,6 +24,7 @@
 [Dd]iscoverability
 [Dd]owntimes
 Dynatrace
+Entra
 [Ff]ailback
 [Ff]ailover
 [Ff]ika
@@ -60,6 +63,8 @@ LDs
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
+ROSA
+rosa
 [Rr]ox
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
@@ -75,6 +80,7 @@ Temenos
 [Tt]olerations
 [Tt]emplated
 [Tt]oolset
+VNet
 [Uu]ncomment
 [Ww]ebservice
 [Ww]ireguard

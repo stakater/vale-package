@@ -1,8 +1,7 @@
 [Aa]ccessor
 [Aa]dd[Oo]n
 [Aa]rchitecting
-ARO
-aro
+ARO|aro
 [Aa]uditable
 [Aa]utoscale
 [Aa]utoscalers
@@ -63,8 +62,7 @@ LDs
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
-ROSA
-rosa
+ROSA|rosa
 [Rr]ox
 [Ss]andboxed
 [Ss]ervice[Aa]ccount

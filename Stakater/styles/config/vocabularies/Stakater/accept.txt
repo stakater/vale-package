@@ -89,6 +89,7 @@ auditability
 auditable
 autoscale
 BackupStorageLocation
+Bagares
 Binero
 bluesky
 boolean
@@ -143,6 +144,7 @@ Fluentd
 Forecastle
 formatter[s]?
 FQDN[s]?
+gata
 Gemfire
 gitBranch
 GitHub

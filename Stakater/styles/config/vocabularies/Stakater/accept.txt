@@ -1,7 +1,6 @@
 [Aa]ccessor
 [Aa]dd[Oo]n
 [Aa]rchitecting
-ARO|aro
 [Aa]uditable
 [Aa]utoscale
 [Aa]utoscalers
@@ -22,8 +21,6 @@ ARO|aro
 [Dd]ev
 [Dd]iscoverability
 [Dd]owntimes
-Dynatrace
-Entra
 [Ff]ailback
 [Ff]ailover
 [Ff]ika
@@ -40,7 +37,6 @@ Entra
 [Kk]ube
 [Kk]ubernetes
 [Ll]ightbulb
-LDs
 [Ll]inux
 [Ll]iveness
 [Mm]etamodel[s]?
@@ -52,6 +48,7 @@ LDs
 [Oo]ffboarding
 [Oo]nboarded
 [Oo]nboarding
+[Oo]pen[Cc]ost
 [Oo]verengineering
 [Pp]luggable
 [Pp]odman
@@ -62,7 +59,6 @@ LDs
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
-ROSA|rosa
 [Rr]ox
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
@@ -74,11 +70,9 @@ ROSA|rosa
 [Ss]ubnet
 [Ss]ubresource
 [Tt]eardown
-Temenos
-[Tt]olerations
 [Tt]emplated
+[Tt]olerations
 [Tt]oolset
-VNet
 [Uu]ncomment
 [Ww]ebservice
 [Ww]ireguard
@@ -90,10 +84,12 @@ Ansible
 API[s]?
 apigroup[s]?
 ArgoCD
+ARO|aro
 auditability
 auditable
 autoscale
 BackupStorageLocation
+Bagares
 Binero
 bluesky
 boolean
@@ -127,10 +123,15 @@ dnsmasq
 Docker Hub
 Dockerfile[s]?
 DTE[s]?
+Dynatrace
 ebook[s]?
 Elastx
+elif
 enablement
+endfor
+endif
 ENI[s]?
+Entra
 env
 EOC
 eppn
@@ -143,6 +144,7 @@ Fluentd
 Forecastle
 formatter[s]?
 FQDN[s]?
+gata
 Gemfire
 gitBranch
 GitHub
@@ -189,6 +191,7 @@ kubeseal
 Kustomize
 Kyverno
 labelSelector
+LDs
 learning[s]?
 Linkerd
 Logstash
@@ -216,7 +219,6 @@ oc
 OnCall
 onDelete
 ontop
-[Oo]pen[Cc]ost
 OpenShift
 OpenStack
 overutilized
@@ -240,6 +242,7 @@ Reloader
 Restic
 RHACS
 roadmap[s]?
+ROSA|rosa
 runbook[s]?
 runtime[s]?
 SAAP
@@ -275,6 +278,7 @@ Syslog
 Tanzu
 Tekton
 Telco
+Temenos
 tfvars
 Thanos
 Tiltfile
@@ -300,6 +304,7 @@ vendored
 vendoring
 VM[s]?
 VMware
+VNet
 VolumeSnapshot[s]?
 VPA[s]?
 VPC[s]?
@@ -310,7 +315,7 @@ Wix
 worker_state
 www
 xfs
-YAML
-Zerotier
 XR[s]
 XRD[s]
+YAML
+Zerotier

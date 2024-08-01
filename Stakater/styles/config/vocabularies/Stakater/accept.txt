@@ -13,11 +13,13 @@
 [Cc]ron
 [Cc]ybersecurity
 [Dd]aemonset
+DBA[s]?
 [Dd]eliverable[s]?
 [Dd]eprovisioning
 [Dd]escheduler
 [Dd]escheduling
 [Dd]eserialize
+[Dd]ecomissioning
 [Dd]ev
 [Dd]iscoverability
 [Dd]owntimes
@@ -113,6 +115,7 @@ CPU
 CR[s]?
 CRD[s]?
 CustomResourceDefinition[s]?
+cutover
 CV[s]?
 CVE[s]?
 Datadog

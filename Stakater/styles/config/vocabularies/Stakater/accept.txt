@@ -155,7 +155,7 @@ GitLab
 GitOps
 GitVersion
 Golang
-Governances
+[Gg]overnances
 gpt
 Gradle
 Grafana
@@ -170,7 +170,7 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
-Interdependencies
+[Ii]nterdependencies
 IP[s]?
 iPad[s]?
 Istio

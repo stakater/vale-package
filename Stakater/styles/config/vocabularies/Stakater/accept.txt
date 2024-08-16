@@ -211,6 +211,7 @@ Mobius
 modularization
 MongoDB
 MTO
+[Mm]ulticluster
 Nasdaq
 NDA[s]?
 netclient
@@ -248,6 +249,7 @@ Restic
 RHACS
 roadmap[s]?
 ROSA|rosa
+[Rr]ollout
 runbook[s]?
 runtime[s]?
 SAAP
@@ -293,10 +295,12 @@ toolchain
 Trello
 Trivy
 Tronador
+[Tt]ransformative
 txt
 ubuntu
 underutilization
 UptimeRobot
+[Uu]pskilling
 URI[s]?
 URL[s]?
 utilizations

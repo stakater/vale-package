@@ -13,13 +13,12 @@
 [Cc]ron
 [Cc]ybersecurity
 [Dd]aemonset
-DBA[s]?
+[Dd]ecomissioning
 [Dd]eliverable[s]?
 [Dd]eprovisioning
 [Dd]escheduler
 [Dd]escheduling
 [Dd]eserialize
-[Dd]ecomissioning
 [Dd]ev
 [Dd]iscoverability
 [Dd]owntimes
@@ -27,8 +26,10 @@ DBA[s]?
 [Ff]ailover
 [Ff]ika
 [Ff]inali[sz]er[s]?
+[Gg]overnances
 [Hh]elm
 [Hh]ypershift
+[Ii]nterdependencies
 [Jj]umpstart
 [Kk]afka
 [Kk]amel
@@ -43,6 +44,7 @@ DBA[s]?
 [Ll]iveness
 [Mm]etamodel[s]?
 [Mm]iddleware
+[Mm]ulticluster
 [Mm]ultitenancy
 [Nn]amespace[s]?
 [Nn]etmaker
@@ -61,6 +63,7 @@ DBA[s]?
 [Rr]epo[s]?
 [Rr]eusability
 [Rr]ole[Bb]inding
+[Rr]ollout
 [Rr]ox
 [Ss]andboxed
 [Ss]ervice[Aa]ccount
@@ -75,7 +78,9 @@ DBA[s]?
 [Tt]emplated
 [Tt]olerations
 [Tt]oolset
+[Tt]ransformative
 [Uu]ncomment
+[Uu]pskilling
 [Ww]ebservice
 [Ww]ireguard
 addhost
@@ -119,6 +124,7 @@ cutover
 CV[s]?
 CVE[s]?
 Datadog
+DBA[s]?
 declaratively
 deletecollection
 Demiguise
@@ -128,6 +134,7 @@ Dockerfile[s]?
 DTE[s]?
 Dynatrace
 ebook[s]?
+Elastisys
 Elastx
 elif
 enablement
@@ -155,7 +162,6 @@ GitLab
 GitOps
 GitVersion
 Golang
-[Gg]overnances
 gpt
 Gradle
 Grafana
@@ -170,7 +176,6 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
-[Ii]nterdependencies
 IP[s]?
 iPad[s]?
 Istio
@@ -211,7 +216,6 @@ Mobius
 modularization
 MongoDB
 MTO
-[Mm]ulticluster
 Nasdaq
 NDA[s]?
 netclient
@@ -249,7 +253,6 @@ Restic
 RHACS
 roadmap[s]?
 ROSA|rosa
-[Rr]ollout
 runbook[s]?
 runtime[s]?
 SAAP
@@ -295,12 +298,10 @@ toolchain
 Trello
 Trivy
 Tronador
-[Tt]ransformative
 txt
 ubuntu
 underutilization
 UptimeRobot
-[Uu]pskilling
 URI[s]?
 URL[s]?
 utilizations

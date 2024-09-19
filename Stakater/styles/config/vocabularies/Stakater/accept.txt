@@ -216,6 +216,7 @@ Nasdaq
 NDA[s]?
 netclient
 NFS
+NMState
 Nordmart
 NPM
 NuGet
@@ -225,6 +226,7 @@ oc
 OnCall
 onDelete
 ontop
+OpenMetal
 OpenShift
 OpenStack
 overutilized
@@ -311,6 +313,7 @@ Vector
 Velero
 vendored
 vendoring
+VLAN[s]?
 VM[s]?
 VMware
 VNet

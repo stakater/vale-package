@@ -27,6 +27,7 @@ DBA[s]?
 [Ff]ailover
 [Ff]ika
 [Ff]inali[sz]er[s]?
+[Gg]it[Hh]ub
 [Hh]elm
 [Hh]ypershift
 [Jj]umpstart
@@ -150,7 +151,6 @@ FQDN[s]?
 gata
 Gemfire
 gitBranch
-GitHub
 GitLab
 GitOps
 GitVersion

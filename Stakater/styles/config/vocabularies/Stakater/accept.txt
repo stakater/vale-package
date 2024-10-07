@@ -90,6 +90,7 @@ ARO|aro
 auditability
 auditable
 autoscale
+Avanza
 BackupStorageLocation
 Bagares
 Binero
@@ -200,6 +201,7 @@ LDs
 learning[s]?
 Linkerd
 Logstash
+Macbook
 MachineSet[s]?
 majeure
 Makefile
@@ -269,6 +271,7 @@ Signup
 SLA[s]?
 SLI[s]?
 SLO[s]?
+Skatteverket
 SonarQube
 Sonatype
 Splunk

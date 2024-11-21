@@ -171,6 +171,7 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
+Integritetsskyddsmyndigheten
 [Ii]nterdependencies
 IP[s]?
 iPad[s]?

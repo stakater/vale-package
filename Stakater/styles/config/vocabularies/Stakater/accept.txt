@@ -105,6 +105,7 @@ Burnup
 burstable
 Ceph
 Certmanager
+CISO[s]?
 classpath
 Cleura
 CLI
@@ -122,6 +123,7 @@ CVE[s]?
 Datadog
 declaratively
 deletecollection
+DPO[s]?
 Demiguise
 dnsmasq
 Docker Hub

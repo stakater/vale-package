@@ -261,6 +261,7 @@ runbook[s]?
 runtime[s]?
 SAAP
 Safespring
+Saviynt
 SAML
 SCC[s]?
 SCM[s]?

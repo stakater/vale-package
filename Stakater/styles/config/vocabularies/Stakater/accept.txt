@@ -118,6 +118,8 @@ CR[s]?
 CRD[s]?
 CustomResourceDefinition[s]?
 cutover
+cyber
+cyberattack[s]?
 CV[s]?
 CVE[s]?
 Datadog
@@ -228,6 +230,7 @@ NuGet
 num_workers
 OAuth
 oc
+OpenBao
 OnCall
 onDelete
 ontop
@@ -235,6 +238,8 @@ OpenMetal
 OpenShift
 OpenStack
 overutilized
+pac
+PAC
 PagerDuty
 parameteriz(e|ing)
 Portworx

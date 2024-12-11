@@ -43,6 +43,7 @@ DBA[s]?
 [Ll]iveness
 [Mm]etamodel[s]?
 [Mm]iddleware
+[Mm]othershift
 [Mm]ultitenancy
 [Nn]amespace[s]?
 [Nn]etmaker
@@ -170,6 +171,7 @@ Hive
 hostname
 HPA
 html
+htpasswd
 http[s]?
 IDP[s]?
 imagestream[s]?

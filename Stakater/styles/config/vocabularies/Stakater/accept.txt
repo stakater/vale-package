@@ -110,6 +110,7 @@ CISO[s]?
 classpath
 Cleura
 CLI
+CloudPak
 ClusterResourceQuota[s]?
 ClusterTask[s]?
 commonMetadata

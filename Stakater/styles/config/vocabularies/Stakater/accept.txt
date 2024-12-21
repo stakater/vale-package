@@ -257,6 +257,7 @@ PV[s]?
 Quay
 RBAC
 Realtime
+[Rr]ebalance
 Red Hat
 Rego
 Reloader

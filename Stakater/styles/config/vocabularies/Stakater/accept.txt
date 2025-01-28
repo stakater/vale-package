@@ -27,6 +27,7 @@
 [Ee]nablement
 [Ff]ailback
 [Ff]ailover
+[Ff]ailover[s]?
 [Ff]ika
 [Ff]inali[sz]er[s]?
 [Gg]overnances
@@ -104,7 +105,9 @@ Alertmanager
 Ansible
 anycast
 API[s]?
+APIcast
 apigroup[s]?
+APIManager
 ArgoCD
 ARO|aro
 auditability
@@ -123,6 +126,7 @@ Bundler
 Burndown
 Burnup
 burstable
+camelk
 Ceph
 Certmanager
 cgroup[s]?
@@ -131,6 +135,7 @@ classpath
 Cleura
 CLI
 CloudPak
+CloudWatch
 ClusterResourceQuota[s]?
 ClusterTask[s]?
 commonMetadata
@@ -213,9 +218,12 @@ JSON
 jsonnet
 JUnit
 JWT[s]?
+Kamelet
+kameletbinding[s]?
 Karlskrona
 Katacoda
 Kerberos
+keystore
 Kiali
 Kibana
 Knative
@@ -244,9 +252,11 @@ Matomo
 Mattermost
 Maven
 Mbps
+memcached
 Mobius
 modularization
 MongoDB
+monospace[d]?
 MTO
 multicast
 multipathing
@@ -274,6 +284,8 @@ P[Oo]C[s]?
 pac
 PAC
 PagerDuty
+parallelization
+PDB[s]?
 Portworx
 Postgres
 preloaded
@@ -288,6 +300,7 @@ Quay
 RBAC
 Realtime
 Red Hat
+Redis
 Rego
 Reloader
 Restic
@@ -319,6 +332,7 @@ Splunk
 springboot
 SRE[s]?
 SSD[s]?
+SSO
 StackRox
 stderr
 stdout
@@ -343,6 +357,7 @@ toolchain
 Trello
 Trivy
 Tronador
+truststore
 txt
 ubuntu
 underutilization

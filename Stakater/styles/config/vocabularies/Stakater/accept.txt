@@ -7,6 +7,7 @@
 [Aa]utoscalers
 [Aa]utoscaling
 [Bb]aremetal
+[Bb]ootloader
 [Bb]uildah
 [Cc]heckov
 [Cc]onfig[s]?
@@ -25,6 +26,7 @@
 [Dd]iscoverability
 [Dd]owntimes
 [Ee]nablement
+[Ee]xfiltration
 [Ff]ailback
 [Ff]ailover
 [Ff]ailover[s]?
@@ -36,6 +38,7 @@
 [Hh]yperconverged
 [Hh]ypershift
 [Ii]nterdependencies
+[Jj]umphost
 [Jj]umpstart
 [Kk]afka
 [Kk]amel
@@ -55,6 +58,7 @@
 [Mm]othershift
 [Mm]ulticluster
 [Mm]ultitenancy
+[Mm]ultitenant
 [Nn]amespace[s]?
 [Nn]etmaker
 [Nn]utanix
@@ -62,6 +66,7 @@
 [Oo]nboarded
 [Oo]nboarding
 [Oo]pen[Cc]ost
+[Oo]verconsumption
 [Oo]verengineering
 [Pp]arameteriz(e|ing)
 [Pp]luggable
@@ -82,11 +87,13 @@
 [Ss]erverless
 [Ss]ervice[Aa]ccount
 [Ss]everability
+[Ss]harding
 [Ss]howback
 [Ss]howback
 [Ss]kopeo
 [Ss]takater
 [Ss]ubnet
+[Ss]ubnet[s]?
 [Ss]ubresource
 [Tt]eardown
 [Tt]emplated
@@ -94,6 +101,8 @@
 [Tt]oolset
 [Tt]ransformative
 [Uu]ncomment
+[Uu]nderconsumption
+[Uu]nmount[s]?
 [Uu]pskilling
 [Ww]ebservice
 [Ww]ireframe[s]?
@@ -144,6 +153,7 @@ CPU
 CR[s]?
 CRD[s]?
 creds
+CSR[s]?
 CustomResourceDefinition[s]?
 cutover
 CV[s]?
@@ -199,6 +209,7 @@ Gravatar
 HAProxy
 Hashicorp
 Hive
+hostPort
 HPA
 html
 htpasswd
@@ -207,6 +218,7 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
+IOP[s]?
 IP[s]?
 iPad[s]?
 Istio
@@ -252,7 +264,9 @@ Matomo
 Mattermost
 Maven
 Mbps
+MCP[s]?
 memcached
+misconfiguration
 Mobius
 modularization
 MongoDB
@@ -265,7 +279,10 @@ NDA[s]?
 netclient
 NFS
 nginx
+NIC[s]?
 NMState
+nodePort
+nodeSelector
 Nordmart
 NPM
 NuGet
@@ -279,6 +296,7 @@ OpenBao
 OpenMetal
 OpenShift
 OpenStack
+overcommit
 overutilized
 P[Oo]C[s]?
 pac
@@ -338,7 +356,6 @@ stderr
 stdout
 StorageClass
 subfield[s]?
-subnet[s]?
 Subnetworks
 sudo
 Sumologic
@@ -370,15 +387,18 @@ USBGuard
 utilizations
 uuid
 Vault
+vCenter
 vCore[s]?
 vCPU[s]?
 Vector
+Veeam
 Velero
 vendored
 vendoring
 virtualized
 VLAN[s]?
 VM[s]?
+vMotion
 VMware
 VNet
 VolumeSnapshot[s]?

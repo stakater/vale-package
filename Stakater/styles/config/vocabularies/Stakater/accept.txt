@@ -356,7 +356,6 @@ stderr
 stdout
 StorageClass
 subfield[s]?
-subnet[s]?
 Subnetworks
 sudo
 Sumologic

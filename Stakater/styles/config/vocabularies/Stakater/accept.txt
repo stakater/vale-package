@@ -193,7 +193,7 @@ Forecastle
 formatter[s]?
 FQDN[s]?
 gata
-Gb
+GB
 Gemfire
 ghcr
 gitBranch
@@ -303,6 +303,7 @@ pac
 PAC
 PagerDuty
 parallelization
+PB
 PDB[s]?
 Portworx
 Postgres
@@ -362,6 +363,7 @@ Sumologic
 Syslog
 systemd
 Tanzu
+TB
 Tekton
 Telco
 Temenos

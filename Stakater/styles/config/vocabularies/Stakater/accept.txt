@@ -193,7 +193,7 @@ Forecastle
 formatter[s]?
 FQDN[s]?
 gata
-Gb
+GB
 Gemfire
 ghcr
 gitBranch
@@ -263,6 +263,7 @@ master_state
 Matomo
 Mattermost
 Maven
+MB
 Mbps
 MCP[s]?
 memcached
@@ -303,6 +304,7 @@ pac
 PAC
 PagerDuty
 parallelization
+PB
 PDB[s]?
 Portworx
 Postgres
@@ -362,6 +364,7 @@ Sumologic
 Syslog
 systemd
 Tanzu
+TB
 Tekton
 Telco
 Temenos

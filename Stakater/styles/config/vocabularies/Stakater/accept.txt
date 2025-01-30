@@ -4,7 +4,7 @@
 [Aa]rchitecting
 [Aa]uditable
 [Aa]utoscale
-[Aa]utoscalers
+[Aa]utoscaler[s]?
 [Aa]utoscaling
 [Bb]aremetal
 [Bb]ootloader
@@ -15,7 +15,7 @@
 [Cc]ron
 [Cc]rossplane
 [Cc]ybersecurity
-[Dd]aemonset
+[Dd]aemonset[s]?
 [Dd]ecomissioning
 [Dd]eliverable[s]?
 [Dd]eprovisioning
@@ -94,6 +94,7 @@
 [Ss]takater
 [Ss]ubnet
 [Ss]ubnet[s]?
+[Ss]ubprocessor[s]?
 [Ss]ubresource
 [Tt]eardown
 [Tt]emplated
@@ -149,7 +150,7 @@ ClusterResourceQuota[s]?
 ClusterTask[s]?
 commonMetadata
 Complior
-CPU
+CPU[s]?
 CR[s]?
 CRD[s]?
 creds
@@ -218,7 +219,7 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
-IOP[s]?
+IOP[S]?
 IP[s]?
 iPad[s]?
 Istio
@@ -419,3 +420,4 @@ XR[s]?
 XRD[s]?
 YAML[s]?
 Zerotier
+Zipkin

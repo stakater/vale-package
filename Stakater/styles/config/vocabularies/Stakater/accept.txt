@@ -91,7 +91,6 @@
 [Ss]howback
 [Ss]howback
 [Ss]kopeo
-[Ss]takater
 [Ss]ubnet
 [Ss]ubnet[s]?
 [Ss]ubprocessor[s]?
@@ -355,6 +354,7 @@ SRE[s]?
 SSD[s]?
 SSO
 StackRox
+Stakater
 stderr
 stdout
 StorageClass

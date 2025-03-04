@@ -105,6 +105,7 @@
 [Uu]nmount[s]?
 [Uu]pskilling
 [Ww]ebservice
+[Ww]eb[Ss]ocket[s]?
 [Ww]ireframe[s]?
 [Ww]ireguard
 addhost

@@ -55,7 +55,6 @@
 [Ll]iveness
 [Mm]etamodel[s]?
 [Mm]iddleware
-[Mm]irrord
 [Mm]othershift
 [Mm]ulticluster
 [Mm]ultitenancy
@@ -269,6 +268,7 @@ MB
 Mbps
 MCP[s]?
 memcached
+mirrord
 misconfiguration
 Mobius
 modularization

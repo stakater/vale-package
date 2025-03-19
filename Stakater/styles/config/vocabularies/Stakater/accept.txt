@@ -43,9 +43,11 @@
 [Kk]afka
 [Kk]amel
 [Kk]anban
+Kaoto
 [Kk]eycloak
 [Kk]eypair
 [Kk]ickstarter
+[Kk]ommun
 [Kk]ube
 [Kk]ubeadmin
 [Kk]ubernetes
@@ -97,6 +99,7 @@
 [Ss]ubresource
 [Tt]eardown
 [Tt]emplated
+[Tt]estcontainers
 [Tt]olerations
 [Tt]oolset
 [Tt]ransformative

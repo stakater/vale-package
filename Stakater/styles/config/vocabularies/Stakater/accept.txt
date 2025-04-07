@@ -158,6 +158,8 @@ CR[s]?
 CRD[s]?
 creds
 CSR[s]?
+CTA[s]?
+CTO[s]?
 CustomResourceDefinition[s]?
 cutover
 CV[s]?
@@ -313,6 +315,7 @@ PB
 PDB[s]?
 Portworx
 Postgres
+[Pp]roductize[d]?
 preloaded
 Prisma
 Prometheus
@@ -329,6 +332,7 @@ Redis
 Rego
 Reloader
 Restic
+[Rr]etarget
 RHACS
 roadmap[s]?
 ROSA|rosa
@@ -348,6 +352,7 @@ semver
 sharded
 Signup
 Skatteverket
+[Ss]killset
 SLA[s]?
 SLI[s]?
 SLO[s]?
@@ -390,6 +395,7 @@ underutilization
 unprovisioned
 untrusted
 UptimeRobot
+[Uu]psell[ing]?
 URI[s]?
 URL[s]?
 USBGuard
@@ -417,6 +423,7 @@ VPN
 VSCode
 vSphere
 webserver
+[Ww]hitepaper[s]?
 Wix
 worker_state
 www

@@ -395,7 +395,7 @@ underutilization
 unprovisioned
 untrusted
 UptimeRobot
-[Uu]psell[ing]?
+[Uu]psell(ing)?
 URI[s]?
 URL[s]?
 USBGuard

@@ -11,7 +11,7 @@
 [Bb]uildah
 [Cc]heckov
 [Cc]onfig[s]?
-[Cc]onfigmap[s]?
+[Cc]onfigMap[s]?
 [Cc]ron
 [Cc]rossplane
 [Cc]ybersecurity

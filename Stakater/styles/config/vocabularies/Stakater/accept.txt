@@ -313,6 +313,7 @@ OpenBao
 OpenMetal
 OpenShift
 OpenStack
+OTel
 overcommit
 overutilized
 P[Oo]C[s]?

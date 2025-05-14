@@ -152,6 +152,7 @@ Ceph
 Certmanager
 cgroup[s]?
 CISO[s]?
+CIO[s]?
 classpath
 Cleura
 CLI
@@ -336,6 +337,7 @@ PVC[s]?
 Quay
 RBAC
 Realtime
+[Rr]edeployments
 Red Hat
 Redis
 Rego

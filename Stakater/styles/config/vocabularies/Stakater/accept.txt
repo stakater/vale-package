@@ -3,12 +3,15 @@
 [Aa]ddon[s]?
 [Aa]rchitecting
 [Aa]uditable
+[Aa]uditability
 [Aa]utoscale
 [Aa]utoscaler[s]?
 [Aa]utoscaling
+ACLs
 [Bb]aremetal
 [Bb]ootloader
 [Bb]uildah
+CEPH
 [Cc]heckov
 [Cc]onfig[s]?
 [Cc]onfigMap[s]?
@@ -229,6 +232,7 @@ HPA
 html
 htpasswd
 http[s]?
+HashiCorp
 IDP[s]?
 imagestream[s]?
 imageTag
@@ -261,7 +265,7 @@ ksonnet
 Kube
 kubeconfig
 kubectl
-Kubehealth
+KubeHealth
 kubelet[s]?
 Kuberhealthy
 kubeseal
@@ -301,6 +305,8 @@ NIC[s]?
 NMState
 nodePort
 nodeSelector
+nodePort
+[Nn]on[Pp]rod
 Nordmart
 NPM
 NuGet
@@ -343,6 +349,7 @@ Redis
 Rego
 Reloader
 Restic
+Reweight
 RHACS
 roadmap[s]?
 ROSA|rosa
@@ -350,6 +357,7 @@ runbook[s]?
 runtime[s]?
 SAAP
 Safespring
+Sanitization
 SAML
 Saviynt
 SCC[s]?

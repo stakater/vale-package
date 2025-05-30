@@ -209,6 +209,7 @@ Fluentd
 Forecastle
 formatter[s]?
 FQDN[s]?
+Gantt
 gata
 GB
 Gemfire
@@ -319,6 +320,7 @@ OpenMetal
 OpenShift
 OpenStack
 OTel
+OSD[s]?
 overcommit
 overutilized
 P[Oo]C[s]?
@@ -393,6 +395,7 @@ Tanzu
 TB
 Tekton
 Telco
+[Tt]elecom
 Temenos
 tfvars
 Thanos

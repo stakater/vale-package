@@ -137,6 +137,7 @@ ARO|aro
 auditability
 auditable
 autoscale
+Authorino
 Avanza
 BackupStorageLocation
 Bagares
@@ -217,6 +218,7 @@ ghcr
 gitBranch
 GitHub
 GitLab
+Gitless
 GitOps
 GitVersion
 Golang
@@ -407,7 +409,7 @@ Trello
 Trivy
 Tronador
 truststore
-txt
+TXT
 Ubuntu
 underutilization
 unprovisioned
@@ -418,6 +420,7 @@ URL[s]?
 USBGuard
 utilizations
 uuid
+Valkey
 Vault
 vCenter
 vCore[s]?

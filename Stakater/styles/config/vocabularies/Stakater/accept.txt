@@ -215,7 +215,7 @@ Gantt
 gata
 GB
 Gemfire
-GHCR
+ghcr
 gitBranch
 GitHub
 GitLab

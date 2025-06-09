@@ -20,6 +20,7 @@ CEPH
 [Cc]ybersecurity
 [Dd]aemonset[s]?
 [Dd]ecomissioning
+[Dd]eduplication
 [Dd]eliverable[s]?
 [Dd]eprovisioning
 [Dd]escheduler
@@ -215,6 +216,7 @@ gata
 GB
 Gemfire
 ghcr
+GHCR
 gitBranch
 GitHub
 GitLab
@@ -289,6 +291,7 @@ MB
 Mbps
 MCP[s]?
 memcached
+mins
 mirrord
 misconfiguration
 Mobius
@@ -307,6 +310,7 @@ NIC[s]?
 NMState
 nodePort
 nodeSelector
+[Nn]ode[Pp]ool[s]?
 [Nn]on[Pp]rod
 Nordmart
 NPM
@@ -343,6 +347,7 @@ Pure Storage
 PV[s]?
 PVC[s]?
 Quay
+[Qq]ueryable
 RBAC
 Realtime
 [Rr]edeployments
@@ -351,6 +356,7 @@ Redis
 Rego
 Reloader
 Restic
+[Rr]esync
 Reweight
 RHACS
 roadmap[s]?
@@ -364,6 +370,7 @@ SAML
 Saviynt
 SCC[s]?
 SCM[s]?
+SDK[s]?
 Sealed[ ]?Secret[s]?
 secretRef
 SelectorSyncSet
@@ -415,6 +422,7 @@ underutilization
 unprovisioned
 untrusted
 UptimeRobot
+UI[s]?
 URI[s]?
 URL[s]?
 USBGuard

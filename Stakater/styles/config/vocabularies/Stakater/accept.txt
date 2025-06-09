@@ -216,6 +216,7 @@ gata
 GB
 Gemfire
 ghcr
+GHCR
 gitBranch
 GitHub
 GitLab

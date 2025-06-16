@@ -166,6 +166,7 @@ ClusterResourceQuota[s]?
 ClusterTask[s]?
 commonMetadata
 Complior
+[Cc]omposable
 CPU[s]?
 CR[s]?
 CRD[s]?
@@ -336,6 +337,7 @@ PagerDuty
 parallelization
 PB
 PDB[s]?
+Permify
 Portworx
 Postgres
 preloaded
@@ -344,6 +346,7 @@ Prometheus
 Proto
 Proxmox
 Pure Storage
+Pulumi
 PV[s]?
 PVC[s]?
 Quay

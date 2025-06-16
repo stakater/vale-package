@@ -239,6 +239,7 @@ htpasswd
 http[s]?
 HashiCorp
 IDP[s]?
+[Ii]dempotency
 imagestream[s]?
 imageTag
 inaction

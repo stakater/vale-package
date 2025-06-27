@@ -255,6 +255,7 @@ JSON
 jsonnet
 JUnit
 JWT[s]?
+JWK[s]?
 Kamaji
 Kamelet
 kameletbinding[s]?

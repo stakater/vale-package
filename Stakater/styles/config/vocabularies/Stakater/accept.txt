@@ -11,6 +11,7 @@ ACLs
 [Bb]aremetal
 [Bb]ootloader
 [Bb]uildah
+Ceph
 CEPH
 [Cc]heckov
 [Cc]onfig[s]?
@@ -230,7 +231,6 @@ Gradle
 Grafana
 Gravatar
 HAProxy
-Hashicorp
 Hive
 hostPort
 HPA
@@ -423,6 +423,7 @@ Trivy
 Tronador
 truststore
 TXT
+txt
 Ubuntu
 underutilization
 unprovisioned

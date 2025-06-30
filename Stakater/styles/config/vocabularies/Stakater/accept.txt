@@ -422,8 +422,7 @@ Trello
 Trivy
 Tronador
 truststore
-txt
-TXT
+TXT|txt
 Ubuntu
 UI[s]?
 underutilization

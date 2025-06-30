@@ -237,7 +237,7 @@ HPA
 html
 htpasswd
 http[s]?
-Hashi[Cc]orp
+HashiCorp
 IDP[s]?
 [Ii]dempotency
 imagestream[s]?

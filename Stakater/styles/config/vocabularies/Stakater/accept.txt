@@ -8,6 +8,7 @@
 [Aa]utoscaler[s]?
 [Aa]utoscaling
 [Bb]aremetal
+[Bb]lackbox
 [Bb]ootloader
 [Bb]uildah
 [Cc]heckov
@@ -124,6 +125,7 @@
 [Uu]nmount[s]?
 [Uu]psell(ing)?
 [Uu]pskilling
+[Uu]til[s]?
 [Ww]eb[Ss]ocket[s]?
 [Ww]ebservice
 [Ww]hitepaper[s]?

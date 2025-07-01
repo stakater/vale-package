@@ -258,7 +258,7 @@ JMeter
 JSON
 jsonnet
 JUnit
-JWKS?
+JWK[S]?
 JWT[s]?
 Kamaji
 Kamelet

@@ -96,6 +96,7 @@
 [Rr]esync
 [Rr]etarget
 [Rr]eusability
+[Rr]oadmap[s]?
 [Rr]ole[Bb]inding
 [Rr]ollout
 [Rr]ollout[s]?
@@ -440,6 +441,7 @@ uuid
 Valkey
 Vault
 vCenter
+vCluster
 vCore[s]?
 vCPU[s]?
 Vector

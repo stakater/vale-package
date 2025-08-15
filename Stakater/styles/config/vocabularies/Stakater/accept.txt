@@ -197,6 +197,7 @@ declaratively
 defragmentation[s]?
 deletecollection
 Demiguise
+Dex
 dnsmasq
 Docker Hub
 Dockerfile[s]?
@@ -251,6 +252,7 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
+IdP[s]?
 IOP[S]?
 IP[s]?
 iPad[s]?

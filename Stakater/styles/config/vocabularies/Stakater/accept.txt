@@ -182,6 +182,7 @@ CPU[s]?
 CR[s]?
 CRD[s]?
 creds
+[Cc]ronjob[s]?
 CSR[s]?
 CTA[s]?
 CTO[s]?
@@ -207,6 +208,7 @@ Dynatrace
 ebook[s]?
 Elastx
 elif
+emptyDir
 endfor
 endif
 ENI[s]?
@@ -252,6 +254,7 @@ IDP[s]?
 imagestream[s]?
 imageTag
 inaction
+initContainer
 IdP[s]?
 IOP[S]?
 IP[s]?
@@ -358,6 +361,7 @@ Proto
 Proxmox
 Pulumi
 Pure Storage
+Pushgateway
 PV[s]?
 PVC[s]?
 Quay
@@ -373,7 +377,7 @@ RHACS
 roadmap[s]?
 ROSA|rosa
 runbook[s]?
-runtime[s]?
+[Rr]untime[s]?
 SAAP
 Safespring
 SAML

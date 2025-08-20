@@ -182,7 +182,7 @@ CPU[s]?
 CR[s]?
 CRD[s]?
 creds
-[Cc]ronjob[s]?
+CronJob[s]?
 CSR[s]?
 CTA[s]?
 CTO[s]?

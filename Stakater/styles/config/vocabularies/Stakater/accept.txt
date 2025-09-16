@@ -259,6 +259,7 @@ initContainer
 IdP[s]?
 IOP[S]?
 IP[s]?
+[Ii]ptables
 iPad[s]?
 Istio
 JBoss

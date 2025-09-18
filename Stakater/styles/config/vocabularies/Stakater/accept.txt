@@ -46,6 +46,7 @@
 [Hh]ypershift
 [Ii]dempotency
 [Ii]nterdependencies
+[Ii][Pp][Ss]hield
 [Jj]umphost
 [Jj]umpstart
 [Kk]afka

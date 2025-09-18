@@ -16,6 +16,7 @@
 [Cc]omposable
 [Cc]onfig[s]?
 [Cc]onfigMap[s]?
+CIDR[s]?
 [Cc]ron
 [Cc]rossplane
 [Cc]ybersecurity

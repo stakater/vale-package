@@ -47,7 +47,7 @@ CIDR[s]?
 [Hh]ypershift
 [Ii]dempotency
 [Ii]nterdependencies
-[Ii][Pp][Ss]hield
+(IPS|ips)hield
 [Jj]umphost
 [Jj]umpstart
 [Kk]afka

@@ -16,6 +16,7 @@
 [Cc]omposable
 [Cc]onfig[s]?
 [Cc]onfigMap[s]?
+CIDR[s]?
 [Cc]ron
 [Cc]rossplane
 [Cc]ybersecurity
@@ -46,6 +47,7 @@
 [Hh]ypershift
 [Ii]dempotency
 [Ii]nterdependencies
+(IPS|ips)hield
 [Jj]umphost
 [Jj]umpstart
 [Kk]afka

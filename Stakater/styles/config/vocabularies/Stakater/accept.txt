@@ -17,10 +17,12 @@
 [Cc]onfig[s]?
 [Cc]onfigMap[s]?
 CIDR[s]?
+[Cc]ommoditized
 [Cc]ron
 [Cc]rossplane
 [Cc]ybersecurity
 [Dd]aemonset[s]?
+[Dd]ata[Cc]enter[s]?
 [Dd]ecomissioning
 [Dd]eduplication
 [Dd]eliverable[s]?
@@ -45,6 +47,7 @@ CIDR[s]?
 [Hh]ostname[s]?
 [Hh]yperconverged
 [Hh]ypershift
+[Hh]yperscaler[s]?
 [Ii]dempotency
 [Ii]nterdependencies
 (IPS|ips)hield
@@ -120,6 +123,7 @@ CIDR[s]?
 [Ss]ubresource
 [Tt]eardown
 [Tt]elecom
+[Tt]elco
 [Tt]emplated
 [Tt]estcontainers
 [Tt]olerations
@@ -242,6 +246,7 @@ GitOps
 GitVersion
 Golang
 gpt
+GPU[s]?
 Gradle
 Grafana
 Gravatar
@@ -264,6 +269,7 @@ IP[s]?
 [Ii]ptables
 iPad[s]?
 Istio
+ISV[s]?
 JBoss
 Jenkins
 Jira
@@ -424,7 +430,6 @@ Tailscale
 Tanzu
 TB
 Tekton
-Telco
 Temenos
 tfvars
 Thanos

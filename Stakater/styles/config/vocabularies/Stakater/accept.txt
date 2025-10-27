@@ -430,6 +430,7 @@ Tailscale
 Tanzu
 TB
 Tekton
+[Tt]elco[s]?
 Temenos
 tfvars
 Thanos

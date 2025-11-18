@@ -193,6 +193,7 @@ CronJob[s]?
 CSR[s]?
 CTA[s]?
 CTO[s]?
+CRM
 CustomResourceDefinition[s]?
 cutover
 CV[s]?
@@ -228,6 +229,7 @@ etcd
 Exoscale
 Fabrikate
 Falco
+FastAPI
 firewalld
 Fluentd
 Forecastle
@@ -268,6 +270,7 @@ IOP[S]?
 IP[s]?
 [Ii]ptables
 iPad[s]?
+inbox
 Istio
 ISV[s]?
 JBoss
@@ -338,6 +341,7 @@ NMState
 nodePort
 nodeSelector
 Nordmart
+Notion
 NPM
 NuGet
 num_workers
@@ -404,6 +408,7 @@ semver
 sharded
 Signup
 Skatteverket
+Slack
 SLA[s]?
 SLI[s]?
 SLO[s]?
@@ -438,6 +443,8 @@ Tiltfile
 TNO[s]?
 TOC
 toolchain
+touchpoint
+touchpoints
 Trello
 Trivy
 Tronador
@@ -448,6 +455,8 @@ UI[s]?
 underutilization
 unprovisioned
 untrusted
+upsert
+upserts
 UptimeRobot
 URI[s]?
 URL[s]?

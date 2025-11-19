@@ -454,8 +454,7 @@ UI[s]?
 underutilization
 unprovisioned
 untrusted
-upsert
-upserts
+[Uu]psert[s]?
 UptimeRobot
 URI[s]?
 URL[s]?

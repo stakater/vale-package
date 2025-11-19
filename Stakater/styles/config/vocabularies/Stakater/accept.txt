@@ -443,8 +443,7 @@ Tiltfile
 TNO[s]?
 TOC
 toolchain
-touchpoint
-touchpoints
+[Tt]ouchpoint[s]?
 Trello
 Trivy
 Tronador

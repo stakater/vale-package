@@ -1,0 +1,7 @@
+extends: spelling
+message: "Ignoring email address"
+level: suggestion
+ignorecase: false
+tokens:
+  - '\S+@stakater\.com'
+  - '\S+@\S+\.\S+'

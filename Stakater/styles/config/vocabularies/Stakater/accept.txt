@@ -202,6 +202,8 @@ cyber
 cyberattack[s]?
 Datadog
 DBA[s]?
+deals@stakater.com
+dealsstaging@stakater.com
 declaratively
 defragmentation[s]?
 deletecollection
@@ -394,6 +396,7 @@ runbook[s]?
 [Rr]untime[s]?
 SAAP
 Safespring
+sales@stakater.com
 SAML
 Sanitization
 Saviynt
@@ -494,3 +497,4 @@ XRD[s]?
 YAML[s]?
 Zerotier
 Zipkin
+

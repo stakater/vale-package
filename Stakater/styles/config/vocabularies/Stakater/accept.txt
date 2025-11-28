@@ -247,6 +247,7 @@ Gitless
 GitOps
 GitVersion
 Golang
+[Gg]o[Tt]emplate
 gpt
 GPU[s]?
 Gradle

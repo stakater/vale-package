@@ -8,6 +8,7 @@
 [Aa]utoscale
 [Aa]utoscaler[s]?
 [Aa]utoscaling
+[Bb]ackported
 [Bb]aremetal
 [Bb]lackbox
 [Bb]ootloader
@@ -185,6 +186,7 @@ ClusterResourceQuota[s]?
 ClusterTask[s]?
 commonMetadata
 Complior
+Conjur
 CPU[s]?
 CR[s]?
 CRD[s]?

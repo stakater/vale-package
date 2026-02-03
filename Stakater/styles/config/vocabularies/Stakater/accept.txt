@@ -74,6 +74,7 @@ CIDR[s]?
 [Mm]ulticluster
 [Mm]ultitenancy
 [Mm]ultitenant
+[Mm]ultus
 [Nn]amespace[s]?
 [Nn]etmaker
 [Nn]ode[Pp]ool[s]?
@@ -143,6 +144,7 @@ CIDR[s]?
 [Ww]ireguard
 ACLs
 addhost
+additionalNetworks
 ADR[s]?
 Akerman
 Alertmanager
@@ -303,6 +305,7 @@ Kube
 kubeconfig
 kubectl
 KubeHealth
+[Kk]ube[Vv]irt
 kubelet[s]?
 Kuberhealthy
 kubeseal
@@ -364,6 +367,7 @@ overutilized
 P[Oo]C[s]?
 pac
 PAC
+[Pp]assthrough
 PagerDuty
 parallelization
 PB
@@ -428,6 +432,7 @@ stderr
 stdout
 StorageClass
 subfield[s]?
+[Ss]ubinterface[s]?
 Subnetworks
 sudo
 Sumologic

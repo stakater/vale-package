@@ -22,6 +22,7 @@ CIDR[s]?
 [Cc]ron
 [Cc]rossplane
 [Cc]ybersecurity
+CSP[s]?
 [Dd]aemonset[s]?
 [Dd]ata[Cc]enter[s]?
 [Dd]ecomissioning
@@ -71,6 +72,7 @@ CIDR[s]?
 [Mm]etamodel[s]?
 [Mm]iddleware
 [Mm]othershift
+MSP[s]?
 [Mm]ulticluster
 [Mm]ultitenancy
 [Mm]ultitenant
@@ -415,6 +417,7 @@ semver
 sharded
 Signup
 Skatteverket
+SKU[s]?
 Slack
 SLA[s]?
 SLI[s]?

@@ -505,3 +505,4 @@ XRD[s]?
 YAML[s]?
 Zerotier
 Zipkin
+[Bb]itnami

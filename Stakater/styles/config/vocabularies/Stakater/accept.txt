@@ -166,6 +166,7 @@ Avanza
 BackupStorageLocation
 Bagares
 Binero
+Bitwarden
 bluesky
 boolean
 bootable
@@ -272,6 +273,7 @@ imagestream[s]?
 imageTag
 inaction
 initContainer
+Infisical
 IdP[s]?
 IOP[S]?
 IP[s]?

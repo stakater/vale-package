@@ -508,3 +508,7 @@ YAML[s]?
 Zerotier
 Zipkin
 Bitnami
+[Dd]eduplicate[sd]?
+[Rr]ebalance[sd]?
++toString
+[Ww]alkthrough[s]?

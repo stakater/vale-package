@@ -27,6 +27,7 @@ autoscale
 [Aa]utoscaler[s]?
 [Aa]utoscaling
 Avanza
+bool
 [Bb]ackported
 BackupStorageLocation
 Bagares
@@ -236,6 +237,7 @@ Kuberhealthy
 [Kk]ubernetes
 kubeseal
 [Kk]ube[Vv]irt
+Kustomization
 Kustomize
 Kyverno
 labelSelector
@@ -332,6 +334,7 @@ Postgres
 preloaded
 Prisma
 [Pp]roductize[d]?
+pprof
 Prometheus
 Proto
 Proxmox

@@ -16,6 +16,7 @@ APIManager
 API[s]?
 [Aa]rchitecting
 ArgoCD
+ARN[s]?
 ARO|aro
 [Aa]uditability
 auditability
@@ -28,6 +29,7 @@ autoscale
 [Aa]utoscaling
 Avanza
 bool
+[Bb]ackport[s]?
 [Bb]ackported
 BackupStorageLocation
 Bagares
@@ -69,6 +71,7 @@ Complior
 [Cc]onfigMap[s]?
 [Cc]onfig[s]?
 Conjur
+[Cc]ooldown[s]?
 CPU[s]?
 CRD[s]?
 creds
@@ -387,6 +390,7 @@ SCM[s]?
 [Ss]crum
 SDK[s]?
 Sealed[ ]?Secret[s]?
+seccomp
 secretRef
 SelectorSyncSet
 SELinux
@@ -427,6 +431,7 @@ Subnetworks
 [Ss]ubresource
 sudo
 Sumologic
+syscall[s]?
 Syslog
 systemd
 tailnet
@@ -459,6 +464,7 @@ truststore
 TXT|txt
 Ubuntu
 UI[s]?
+UID[s]?
 [Uu]ncomment
 [Uu]nderconsumption
 underutilization

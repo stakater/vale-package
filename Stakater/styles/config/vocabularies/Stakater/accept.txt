@@ -520,3 +520,4 @@ XR[s]?
 YAML[s]?
 Zerotier
 Zipkin
+[Ww]azuh

@@ -91,7 +91,7 @@ CV[s]?
 cyber
 cyberattack[s]?
 [Cc]ybersecurity
-[Dd]aemonset[s]?
+[Dd]aemon[Ss]et[s]?
 [Dd]ata[Cc]enter[s]?
 Datadog
 DBA[s]?
@@ -133,6 +133,7 @@ EOC
 eppn
 ESXi
 etcd
+execve
 [Ee]xfiltration
 Exoscale
 Fabrikate
@@ -176,7 +177,7 @@ hostPort
 HPA
 html
 htpasswd
-http[s]?
+[Hh][Tt][Tt][Pp][Ss]?
 [Hh]yperconverged
 [Hh]yperscaler[s]?
 [Hh]ypershift
@@ -250,6 +251,7 @@ LDs
 Linkerd
 [Ll]inux
 [Ll]iveness
+localfile
 Logstash
 Macbook
 MachineSet[s]?
@@ -377,7 +379,7 @@ roadmap[s]?
 [Rr]ollout[s]?
 ROSA|rosa
 [Rr]ox
-runbook[s]?
+[Rr]unbook[s]?
 [Rr]untime[s]?
 SAAP
 Safespring
@@ -505,6 +507,7 @@ VPN
 VSCode
 vSphere
 [Ww]alkthrough[s]?
+[Ww]azuh
 webserver
 [Ww]ebservice
 [Ww]eb[Ss]ocket[s]?
@@ -520,4 +523,3 @@ XR[s]?
 YAML[s]?
 Zerotier
 Zipkin
-[Ww]azuh

@@ -484,6 +484,7 @@ utilizations
 [Uu]til[s]?
 uuid
 Valkey
+VAP[s]?
 Vault
 vCenter
 vCluster

@@ -219,7 +219,7 @@ kameletbinding[s]?
 Kaoto
 Karlskrona
 Katacoda
-kcp
+KCP|kcp
 Kerberos
 [Kk]eycloak
 [Kk]eypair

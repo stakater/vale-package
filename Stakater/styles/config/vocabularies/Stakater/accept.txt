@@ -33,6 +33,7 @@ bool
 [Bb]ackported
 BackupStorageLocation
 Bagares
+[Bb]ao
 [Bb]aremetal
 Binero
 Bitnami
@@ -218,6 +219,7 @@ kameletbinding[s]?
 Kaoto
 Karlskrona
 Katacoda
+kcp
 Kerberos
 [Kk]eycloak
 [Kk]eypair
@@ -315,6 +317,7 @@ OpenBao
 OpenMetal
 OpenShift
 OpenStack
+[Oo]rg[s]?
 OSD[s]?
 OTel
 overcommit

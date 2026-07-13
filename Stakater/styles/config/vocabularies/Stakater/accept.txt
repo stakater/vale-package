@@ -433,7 +433,7 @@ subfield[s]?
 [Ss]ubnet[s]?
 Subnetworks
 [Ss]ubprocessor[s]?
-[Ss]ubresource
+[Ss]ubresource[s]?
 sudo
 Sumologic
 syscall[s]?

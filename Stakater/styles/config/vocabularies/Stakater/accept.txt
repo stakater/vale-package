@@ -1,5 +1,6 @@
 [Aa]ccessor
 [Aa]ccreditation[s]?
+[Aa]utomount[s]?
 ACLs
 addhost
 additionalNetworks
@@ -19,6 +20,7 @@ ArgoCD
 ARN[s]?
 ARO|aro
 [Aa]uditability
+Artifactory
 auditability
 [Aa]uditable
 auditable
@@ -96,6 +98,7 @@ cyberattack[s]?
 [Dd]ata[Cc]enter[s]?
 Datadog
 DBA[s]?
+[Dd]atastore[s]?
 declaratively
 [Dd]ecomissioning
 [Dd]eduplicate[sd]?
@@ -121,6 +124,7 @@ DPO[s]?
 DTE[s]?
 Dynatrace
 ebook[s]?
+[Ee]xploitability
 Elastx
 elif
 emptyDir
@@ -222,6 +226,7 @@ Katacoda
 KCP|kcp
 Kerberos
 [Kk]eycloak
+[Kk]eyless
 [Kk]eypair
 keystore
 Kiali
@@ -356,6 +361,7 @@ Quay
 [Qq]ueryable
 [Qq]uiescing
 RBAC
+Rekor
 [Rr]eactively
 [Rr]eadiness
 Realtime
@@ -387,6 +393,8 @@ ROSA|rosa
 SAAP
 Safespring
 SAML
+SBOM[s]?
+Sigstore
 [Ss]andboxed
 Sanitization
 Saviynt
@@ -466,6 +474,7 @@ Trello
 Trivy
 Tronador
 truststore
+[Tt]riage[ds]?
 TXT|txt
 Ubuntu
 UI[s]?

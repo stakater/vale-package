@@ -52,6 +52,7 @@ Bundler
 Burndown
 Burnup
 burstable
+cAdvisor
 camelk
 Ceph|CEPH
 Certmanager

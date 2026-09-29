@@ -9,6 +9,7 @@ additionalNetworks
 ADR[s]?
 Akerman
 Alertmanager
+[Aa]llowlist[s]?
 Ansible
 anycast
 APIcast

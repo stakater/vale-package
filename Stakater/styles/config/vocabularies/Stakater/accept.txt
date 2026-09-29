@@ -1,6 +1,7 @@
 [Aa]ccessor
 [Aa]ccreditation[s]?
 [Aa]utomount[s]?
+[Aa]gentic
 ACLs
 addhost
 additionalNetworks
@@ -17,6 +18,7 @@ apigroup[s]?
 APIManager
 API[s]?
 [Aa]rchitecting
+apiVersion
 ArgoCD
 ARN[s]?
 ARO|aro
@@ -101,6 +103,7 @@ cyberattack[s]?
 Datadog
 DBA[s]?
 [Dd]atastore[s]?
+[Dd]atasource[s]?
 declaratively
 [Dd]ecomissioning
 [Dd]eduplicate[sd]?
@@ -119,6 +122,7 @@ Dex
 [Dd]iscoverability
 dnsmasq
 [Dd]ocker
+dnsSuffix
 Docker Hub
 Dockerfile[s]?
 [Dd]owntimes
@@ -143,6 +147,7 @@ etcd
 execve
 [Ee]xfiltration
 Exoscale
+exposedAddress
 Fabrikate
 [Ff]ailback
 [Ff]ailover
@@ -178,6 +183,7 @@ Gravatar
 HAProxy
 HashiCorp
 [Hh]elm
+[Hh]ostpath
 Hive
 [Hh]ostname[s]?
 hostPort
@@ -216,6 +222,7 @@ jsonnet
 JUnit
 JWK[S]?
 JWT[s]?
+KCL|kcl
 [Kk]afka
 Kamaji
 [Kk]amel
@@ -234,6 +241,8 @@ keystore
 Kiali
 Kibana
 [Kk]ickstarter
+[Kk]ube[Ss]tack[Cc]onfig
+[Kk]ube[Ss]tack[Pp]lus
 Knative
 [Kk]ommun
 Konfigurator
@@ -242,6 +251,7 @@ ksonnet
 [Kk]ube
 Kube
 [Kk]ubeadmin
+kubebuilder
 kubeconfig
 kubectl
 KubeHealth
@@ -260,6 +270,7 @@ LDs
 Linkerd
 [Ll]inux
 [Ll]iveness
+[Ll]ookup[s]?
 localfile
 Logstash
 Macbook
@@ -274,6 +285,7 @@ MB
 Mbps
 MCP[s]?
 memcached
+mgmt
 [Mm]etamodel[s]?
 [Mm]iddleware
 mins
@@ -292,10 +304,12 @@ multipathing
 [Mm]ultitenancy
 [Mm]ultitenant
 [Mm]ultus
+[Nn]amespaced
 [Nn]amespace[s]?
 Nasdaq
 NDA[s]?
 netclient
+[Nn]et[Bb]ird(io)?
 [Nn]etmaker
 NFS
 nginx
@@ -322,6 +336,7 @@ ontop
 OpenBao
 [Oo]pen[Cc]ost
 OpenMetal
+openresolv
 OpenShift
 OpenStack
 [Oo]rg[s]?
@@ -346,6 +361,7 @@ P[Oo]C[s]?
 Portworx
 Postgres
 [Pp]owershift
+[Pp]rom[Qq][Ll]
 preloaded
 Prisma
 [Pp]roductize[d]?
@@ -364,6 +380,8 @@ Quay
 [Qq]uiescing
 RBAC
 Rekor
+replicaCount
+resolvconf
 [Rr]eactively
 [Rr]eadiness
 Realtime
@@ -397,11 +415,14 @@ Safespring
 SAML
 SBOM[s]?
 Sigstore
+secretstore
 [Ss]andboxed
 Sanitization
 Saviynt
 SCC[s]?
 SCM[s]?
+[Ss]cobasic
+[Ss]cosmart
 [Ss]crum
 SDK[s]?
 Sealed[ ]?Secret[s]?
@@ -432,6 +453,9 @@ springboot
 SRE[s]?
 SSD[s]?
 SSO
+[Ss]ubagent[s]?
+[Ss]ubcommand[s]?
+[Ss]ysctl[s]?
 StackRox
 Stakater
 stderr
@@ -531,10 +555,12 @@ webserver
 [Ww]ireguard
 Wix
 worker_state
+[Ww]orktree[s]?
 www
 xfs
 XRD[s]?
 XR[s]?
+[Xx]pkg[s]?
 YAML[s]?
 Zerotier
 Zipkin

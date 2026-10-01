@@ -157,9 +157,13 @@ FastAPI
 [Ff]ika
 [Ff]inali[sz]er[s]?
 firewalld
+[Ff]irewalled
 Fluentd
 Forecastle
 formatter[s]?
+FortiManager
+Fortinet
+FortiOS
 FQDN[s]?
 Gantt
 gata
@@ -191,6 +195,7 @@ HPA
 html
 htpasswd
 [Hh][Tt][Tt][Pp][Ss]?
+[Hh]ugepages
 [Hh]yperconverged
 [Hh]yperscaler[s]?
 [Hh]ypershift
@@ -379,6 +384,7 @@ Quay
 [Qq]ueryable
 [Qq]uiescing
 RBAC
+[Rr]eachability
 Rekor
 replicaCount
 resolvconf
@@ -407,6 +413,7 @@ roadmap[s]?
 [Rr]ollout
 [Rr]ollout[s]?
 ROSA|rosa
+[Rr]outable
 [Rr]ox
 [Rr]unbook[s]?
 [Rr]untime[s]?
@@ -414,6 +421,7 @@ SAAP
 Safespring
 SAML
 SBOM[s]?
+[Ss]ellable
 Sigstore
 secretstore
 [Ss]andboxed
@@ -487,6 +495,7 @@ Temenos
 [Tt]estcontainers
 tfvars
 Thanos
+[Tt]iering
 Tiltfile
 TNO[s]?
 TOC
@@ -511,6 +520,7 @@ underutilization
 [Uu]nmount[s]?
 unprovisioned
 untrusted
+[Uu]plink[s]?
 [Uu]psell(ing)?
 [Uu]psert[s]?
 [Uu]pskilling

@@ -247,6 +247,7 @@ Knative
 [Kk]ommun
 Konfigurator
 KPI[s]?
+KRaft
 ksonnet
 [Kk]ube
 Kube
